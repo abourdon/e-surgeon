@@ -1,0 +1,6 @@
+[submodule "powerapi"]
+	path = powerapi
+	url = git@github.com:abourdon/PowerAPI.git
+[submodule "jalen"]
+	path = jalen
+	url = git@github.com:adelnoureddine/Jalen.git
